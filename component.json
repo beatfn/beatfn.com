@@ -1,0 +1,10 @@
+{
+  "name": "beatfn.com",
+  "dependencies": {
+    "components/backbone": "*"
+  },
+  "scripts": [
+    "index.js",
+    "lib/models/sample.js",
+    "lib/collections/samples.js"]
+}

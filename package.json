@@ -1,0 +1,11 @@
+{
+  "name": "beatfn.com",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-component": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-express-server": "*",
+    "express": "*"
+  }
+}

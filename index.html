@@ -1,0 +1,20 @@
+<html>
+
+  <head>
+    <link rel="stylesheet" href="build/build.css" />
+  </head>
+
+  <body>
+    <p>beatfn.com</p>
+    <a onclick="Nimbus.Auth.authorize('Dropbox'); console.log('authorizin')">authorize me</a>
+
+    <!-- scripts -->
+    <script src="http://nimbusbase.com/static/nimbus.min.js"></script>
+    <script src="build/build.js"></script>
+    <script>
+      require('beatfn.com');
+    </script>
+    <!-- /scripts -->
+
+  </body>
+</html>
